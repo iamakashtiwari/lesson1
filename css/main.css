@@ -1,0 +1,42 @@
+.site-header{
+    
+    color: aliceblue;
+    height: 100vh;
+    font-family: monospace;
+ 
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+    margin: 30px auto;
+    display: block;
+    box-shadow: #3c5d5d 2px 5px 5px;
+
+}
+.linkedin{
+    color: aliceblue;
+}
+body{
+    background-image: url("./mountains-3523153.jpg");
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+h1
+{font-size: 72px;
+    text-align: center;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+h5{
+    font-size: 40px;
+    text-align: center;
+}
+.site-header-content h1{
+color: #def333;
+}
